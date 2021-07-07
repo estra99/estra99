@@ -36,7 +36,7 @@
 [<img align="left" alt="Mongodb" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][linkedin]
 [<img align="left" alt="Cassandra" width="55px" src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" />][linkedin]
 [<img align="left" alt="WordPress" width="40px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" />][linkedin]
-[<img align="left" alt="HTML5" width="35px" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" />][linkedin]
+
 
 <br />
 <br />
