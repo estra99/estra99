@@ -33,9 +33,9 @@
 [<img align="left" alt="AWS" width="55px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />][linkedin]
 [<img align="left" alt="Google Cloud" width="35px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" />][linkedin]
 [<img align="left" alt="MySQL" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />][linkedin]
-[<img align="left" alt="Mongodb" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][linkedin]
+[<img align="left" alt="Mongodb" width="35px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][linkedin]
 [<img align="left" alt="Cassandra" width="55px" src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" />][linkedin]
-[<img align="left" alt="Docker" width="70px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" />][linkedin]
+[<img align="left" alt="Docker" width="80px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" />][linkedin]
 
 
 <br />
